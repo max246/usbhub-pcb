@@ -1,5 +1,5 @@
-# usbhub-pcb
-Opensource USB Hub PCB
+# Opensource USB Hub PCB
+
 
 I have looking to make a custom USB Hub for a project but I couldnt find any of them that worked and using the chip GL850G.
 The chip is pretty old and cheap, but in my case I didnt need to use any of the fast transfering USB3, probably the next version can be based on this schematic.
