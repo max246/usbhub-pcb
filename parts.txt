@@ -1,0 +1,47 @@
+Partlist
+
+Exported from usbhub.brd at 21/08/2016 19:15
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package               Library               Position (mm)         Orientation
+
+C1       0.1uf          C1206                 rcl                   (46.88 36.86)         R90
+C2       0.1uf          C1206                 rcl                   (50.55 37.03)         R90
+C3       0.1uf          C1206                 rcl                   (53.89 37.21)         R90
+C4       1uf            C1206                 rcl                   (28.62 22.06)         R180
+C5       16V 100Uf      PANASONIC_D           SparkFun-Passives     (17.43 46.03)         R180
+C6       6.3V 330UF     PANASONIC_D           SparkFun-Passives     (17.81 38.32)         R180
+C7       10uf           C1206                 rcl                   (31.72 34.59)         R0
+C8       0.1uf          C1206                 rcl                   (31.68 38.49)         R0
+C9       0.1uf          C1206                 rcl                   (31.84 45.3)          R0
+C10      10uf           C1206                 rcl                   (31.79 41.82)         R0
+C11      26pf           C1206                 rcl                   (53.01 20.22)         R0
+C12      26pf           C1206                 rcl                   (57.12 24.31)         R270
+C13      16V 100Uf      PANASONIC_D           SparkFun-Passives     (19.05 13.97)         R270
+C14      0.1uf          C1206                 rcl                   (24.1 14.39)          R270
+C15      16V 100Uf      PANASONIC_D           SparkFun-Passives     (3.81 15.24)          R270
+C16      0.1uf          C1206                 rcl                   (9.16 16.07)          R270
+C17      16V 100Uf      PANASONIC_D           SparkFun-Passives     (55.93 14.17)         R270
+C18      0.1uf          C1206                 rcl                   (50.9 14.91)          R270
+C19      16V 100Uf      PANASONIC_D           SparkFun-Passives     (70.74 15.47)         R270
+C20      0.1uf          C1206                 rcl                   (65.81 15.85)         R270
+D1       5v             SMA-DIODE_ALT         SparkFun-DiscreteSemi (7.78 40.98)          R90
+F1       Fuse 1.1A 5V   PTC-1206              SparkFun-PowerIC      (11.24 41.31)         R270
+JP1      USB-B          USB-B-PTH             SparkFun-Connectors   (5.85 28.49)          R0
+JP2      USB-A-SMD      USB-A-S-NOSILK-FEMALE SparkFun-Connectors   (62.23 3.81)          R90
+JP3      USB-A-SMD      USB-A-S-NOSILK-FEMALE SparkFun-Connectors   (8.89 3.81)           R90
+JP4      USB-A-SMD      USB-A-S-NOSILK-FEMALE SparkFun-Connectors   (26.67 3.81)          R90
+JP5      USB-A-SMD      USB-A-S-NOSILK-FEMALE SparkFun-Connectors   (44.45 3.81)          R90
+JP6                     1X02_LOCK_LONGPADS    SparkFun-Connectors   (1.26 41.95)          R270
+L1       10uh           SM-1206               inductor-neosid       (52.4 41.85)          R0
+Q1       12Mhz          CTS406                crystal               (53.11 25.7)          R90
+R1       5.1k           M1206                 rcl                   (11.46 36.12)         R270
+R2       100k           M1206                 rcl                   (41.55 36.15)         R180
+R3       10k            M1206                 rcl                   (41.34 40.84)         R0
+R4       10k            M1206                 rcl                   (25.67 34.58)         R180
+R5       10k ohm        M1206                 rcl                   (33.89 22.17)         R180
+R7       680 ohm        M1206                 rcl                   (35.5 15.86)          R0
+U$1      GL850G-31      TSSOP28               pimoroni              (44.45 25.4)          R90
